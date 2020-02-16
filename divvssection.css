@@ -1,0 +1,11 @@
+section#top {
+    background-color: yellow;
+}
+section#left {
+    background-color: red;
+    width: 50%;
+    float: left;
+}
+section#right {
+    background-color: blue;
+}
